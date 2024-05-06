@@ -1,10 +1,10 @@
 import ogImageSrc from "@images/social.png";
 
 export const SITE = {
-  title: "ScrewFast",
+  title: "Coderanium",
   tagline: "Top-quality Hardware Tools",
-  description: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs. Start exploring and contact our sales team for superior quality and reliability.",
-  description_short: "ScrewFast offers top-tier hardware tools and expert construction services to meet all your project needs.",
+  description: "We are more than a digital web development and design agency; we are online experience architects, creating exceptional, functional websites that elevate businesses.",
+  description_short: "We are more than a digital web development and design agency; we are online experience architects, creating exceptional, functional websites that elevate businesses.",
   url: "https://screwfast.uk",
   author: "Emil Gulamov",
 };
